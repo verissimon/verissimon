@@ -1,6 +1,6 @@
 ## 👋 Olá
 
-☕ Meu nome é Veríssimo, estou cursando análise e desenvolvimento de sistemas no IFPB
+☕ Meu nome é Veríssimo, estou cursando análise e desenvolvimento de sistemas no IFPB  
 Pronomes: ele/dele
 
 ### Contatos
