@@ -14,7 +14,7 @@ Pronomes: ele/dele
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=verissimon&theme=dark" />
 </a>
 <a href="https://github.com/verissimon">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=verissimon&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=verissimon&layout=compact&langs_count=8&card_width=320&theme=dark&hide=html" />
 </a>
 <!--
 -->
